@@ -43,7 +43,7 @@ $Admin = $_GET['Admin'];
    </style>
    <!-- flowplayer depends on jQuery 1.7.1+ -->
    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-
+	<!-- test from sam -->
    <!-- flowplayer javascript component -->
    <script src="http://releases.flowplayer.org/5.3.2/flowplayer.min.js"></script>
 
